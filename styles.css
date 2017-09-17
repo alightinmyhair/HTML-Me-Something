@@ -1,0 +1,42 @@
+* { background-color: lightpink;
+    font-family: Calibri; Arial;
+   }
+figure{margin: 0;
+    padding: 0;
+    text-align: center;}
+
+img {height:auto;
+    width: 30%;}
+
+
+#harry{text-align: center;
+        font-size: 12px;
+        color: darkorchid;
+    }
+
+h1 {text-align: center;
+    background-color: aquamarine;
+    font-size: 70px;
+    font-style: italic;
+    color: #2E8B57;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.potter{text-align: center;
+    font-size: 30px;
+    background-color: aquamarine;
+    color: #2E8B57;
+    margin: auto;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;}
+
+p{ color: #2E8B57;
+    font-size: 17px;}
+
+ol{ color: #2E8B57;}
+
+ul{color: #2E8B57;
+}
